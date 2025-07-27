@@ -1,8 +1,10 @@
 "use client";
 
 import { Card, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { Clock, Archive, FileText, Share2, ShoppingCart, UserCheck, AreaChart, Calculator, CalendarCheck, HardDrive } from "lucide-react";
+import { Clock, Archive, FileText, Share2, ShoppingCart, UserCheck, AreaChart, Calculator, CalendarCheck, HardDrive, Wrench, Trash2, ArrowRight } from "lucide-react";
 import { useI18n } from "@/context/i18n";
+import { Button } from "@/components/ui/button";
+import Link from "next/link";
 
 const servicesByCategory = [
   {
@@ -73,6 +75,16 @@ const servicesByCategory = [
         title: "services.categories.cat4.service1.title",
         description: "services.categories.cat4.service1.description",
       },
+       {
+        icon: <Trash2 className="w-10 h-10 text-primary" />,
+        title: "services.categories.cat4.service2.title",
+        description: "services.categories.cat4.service2.description",
+      },
+       {
+        icon: <Wrench className="w-10 h-10 text-primary" />,
+        title: "services.categories.cat4.service3.title",
+        description: "services.categories.cat4.service3.description",
+      },
     ]
   }
 ];
@@ -90,11 +102,8 @@ export function ServicesSection() {
           </p>
         </div>
 
-        {servicesByCategory.map((category, catIndex) => (
-          <div key={catIndex} className="mb-16">
-            <h3 className="font-headline text-2xl font-bold text-center mb-10">{t(category.category)}</h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {category.services.map((service, index) => (
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {servicesByCategory.flatMap(c => c.services).slice(0, 6).map((service, index) => (
                 <Card key={index} className="flex flex-col items-center text-center p-6 border-border/60 hover:border-primary/50 hover:bg-secondary transition-all duration-300 transform hover:-translate-y-2">
                   <CardHeader className="p-0">
                     <div className="p-4 bg-secondary rounded-full mb-4">
@@ -102,15 +111,20 @@ export function ServicesSection() {
                     </div>
                     <CardTitle className="font-headline text-xl">{t(service.title)}</CardTitle>
                   </CardHeader>
-                  <CardDescription className="mt-2">
-                    {t(service.description)}
+                  <CardDescription className="mt-2 text-sm">
+                    {t(service.description).split('. ')[0] + '.'}
                   </CardDescription>
                 </Card>
-              ))}
-            </div>
-          </div>
-        ))}
+            ))}
+        </div>
+        <div className="text-center mt-16">
+            <Button asChild size="lg">
+                <Link href="/services">{t('hero.exploreServices')} <ArrowRight className="ml-2 h-5 w-5" /></Link>
+            </Button>
+        </div>
       </div>
     </section>
   );
 }
+
+    
