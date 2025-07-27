@@ -10,8 +10,8 @@
     "spanish": "Español"
   },
   "hero": {
-    "title": "DynamicOps – Automation without the smoke and mirrors",
-    "subtitle": "We transform repetitive tasks into automatic processes. If you're doing it by hand, you're already late: we'll do it for you.",
+    "title": "DynamicOps – Evolve Your Processes. Automate Your Future.",
+    "subtitle": "We transform manual work into a competitive advantage. If a task is repetitive, it shouldn't be human.",
     "exploreServices": "Explore Services",
     "contactUs": "Contact Us"
   },
@@ -22,61 +22,61 @@
       "cat1": {
         "title": "Operations & Administrative Management",
         "service1": {
-          "title": "Frictionless Time-Tracking",
-          "description": "Each employee clocks in with a link or QR code.\n\nYou get ready-to-go reports by location, team, and date without a single spreadsheet cell.\n\nReady to send to your accountant or HR."
+          "title": "Ghost Clock – Frictionless Time Tracking",
+          "description": "Turn time tracking into an invisible, autonomous process. Your team clocks in with a simple scan, and you get real-time productivity analytics delivered to you. Forget spreadsheets and chasing people down; focus on what really matters: leading your team."
         },
         "service2": {
-          "title": "Automatic File Sorting & Secure Backup",
-          "description": "Your documents sort themselves by date, client, or type.\n\nAutomatic backups to a drive or the cloud without lifting a finger.\n\nPerfect for shared drives or historical chaos."
+          "title": "Self-Sorting Folders",
+          "description": "Imagine a digital archive that builds and organizes itself. Our solution automatically classifies, tags, and backs up every file based on client, date, or project. Your digital chaos becomes a strategic, intelligent asset that works for you, even when you're not looking."
         },
         "service3": {
-          "title": "Digital Tracking of Internal Orders or Requests",
-          "description": "A digital form for supplies, transfers, support, or whatever you need.\n\nReports by month, person, or area.\n\nReplaces email, WhatsApp, or paper trails."
+          "title": "Chaos-Free Requests",
+          "description": "Centralize all internal requests—from supplies to support tickets—into a single, intelligent, and fully traceable channel. Get real-time reports on demand, eliminate bottlenecks, and make the phrase 'I sent you a message' a relic of the past."
         }
       },
       "cat2": {
         "title": "Sales & Customer Service",
         "service1": {
-          "title": "Data Capture from WhatsApp or Social Media",
-          "description": "We automatically extract what your customers type (name, order, address).\n\nWe save it in an organized, exportable table.\n\nAutomatic replies to confirm or thank them."
+          "title": "Ninja Capture from WhatsApp & Social Media",
+          "description": "Convert unstructured conversations from social media and WhatsApp into strategic data. Our system extracts customer names, orders, and addresses, logs them into your digital dashboard, and triggers an automatic confirmation. You just focus on closing the next sale."
         },
         "service2": {
-          "title": "Digital Sales or Service Logging by Location",
-          "description": "Log every sale or service from a phone or tablet.\n\nInstantly centralized data for daily or weekly reports.\n\nNo need for expensive systems or complex inventories."
+          "title": "Point of Sale without the Expensive System",
+          "description": "Your phone or tablet becomes your cash register, your reporting engine, and your historical log. Instantly record sales, track performance, and generate reports without being tied to expensive software or complex inventory systems. It's pure, real-time control in your pocket."
         },
         "service3": {
-          "title": "Automatic Follow-Up with Frequent Customers",
-          "description": "Get alerts for customers who haven't returned in X days.\n\nSend reminders, promotions, or personalized messages.\n\nIdeal for salons, workshops, clinics, or stores."
+          "title": "Dormant Customer Radar",
+          "description": "Our system is a proactive growth engine that automatically detects customers who haven't returned. It then lets you re-engage them with a personalized promotion or a timely reminder, turning potential churn into a new sales opportunity without you lifting a finger."
         }
       },
       "cat3": {
         "title": "Reporting, Control & Metrics",
         "service1": {
-          "title": "Automatic Calculation of Key Indicators",
-          "description": "Total sales, best-selling products, profits, visits.\n\nReady daily or weekly without formulas or emails.\n\nDelivered in Excel or PDF."
+          "title": "Self-Generating Metrics",
+          "description": "What if your KPIs weren't just tracked, but delivered to you, fully analyzed? Get daily or weekly reports on sales, top products, and profit margins sent directly to your email or WhatsApp, in Excel or PDF. No formulas, no waiting, just actionable insights on demand."
         },
         "service2": {
-          "title": "Automatic Expense or Performance Reports",
-          "description": "You upload your data (expenses, revenue, operations), and the system does the rest.\n\nClear balance sheets, percentages, alerts, and summaries.\n\nReady to share with partners or accountants."
+          "title": "Pre-Built Accounting",
+          "description": "Upload your raw financial data—expenses, income, operational costs—and our system transforms it into clear balance sheets, performance alerts, and visual graphs. Your numbers, ready to be shared with partners, accountants, or investors in a single click."
         },
         "service3": {
-          "title": "Weekly Consolidation of Activities or Achievements",
-          "description": "Each team logs what they've done -> the system creates a visual report.\n\nUseful for presentations, progress updates, or team management.\n\nUpdates itself, every week."
+          "title": "Intelligent Weekly Summary",
+          "description": "Each team member logs their achievements, and our system automatically consolidates the data into a high-impact, visual report. Perfect for board presentations, client updates, or internal meetings. It builds itself, so you can focus on the narrative."
         }
       },
       "cat4": {
         "title": "Technical Support & Internal IT",
         "service1": {
-          "title": "Automatic Scanning of Equipment (Windows/Linux)",
-          "description": "Detects suspicious tasks, unauthorized software, or large/insecure files.\n\nInforms the technical team with alerts or weekly reports.\n\nRequires no agents or permanent installation."
+          "title": "Silent Guardians on Your Devices",
+          "description": "We implement a proactive security posture by scanning your systems (without installing a thing) for unauthorized apps, suspicious files, or policy violations. You receive automatic alerts, enabling your IT team to be predictive, not just reactive."
         },
         "service2": {
-          "title": "Scheduled Cleaning of Files or Folders",
-          "description": "Automates the secure deletion of old or duplicate files.\n\nApplies rules by type, date, or folder.\n\nPrevents storage overload or misuse."
+          "title": "Clean Drive, Agile Company",
+          "description": "Automate digital hygiene by systematically deleting obsolete files, duplicates, or unnecessary data. You set the rules—by date, type, or size—and our system reclaims storage and reduces risk. Your infrastructure, on autopilot."
         },
         "service3": {
-          "title": "Automation of Manual Processes with Scripts",
-          "description": "Tasks you do every day (exporting, copying, moving, renaming) are scheduled to run on their own.\n\nSaves time, zero errors, more efficiency."
+          "title": "Scripts with Brains",
+          "description": "The manual, repetitive IT tasks you do every day—renaming files, exporting data, moving folders—are now self-executing processes powered by pre-configured logic. The best part? No one notices it happened... only that the work is done, flawlessly."
         }
       }
     }
