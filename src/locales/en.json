@@ -22,61 +22,61 @@
       "cat1": {
         "title": "Operations & Administrative Management",
         "service1": {
-          "title": "Automated Time & Attendance",
-          "description": "Optimize workforce management with a simple QR or link-based clock-in system. Generate error-free reports by location, date, or team, ready for payroll and HR."
+          "title": "Phantom Clock – Frictionless Time-Tracking",
+          "description": "Your team clocks in, scans, and moves on. You get ready-to-use reports by location, person, or day. No spreadsheets. No questions. Just control."
         },
         "service2": {
-          "title": "Intelligent File & Backup Automation",
-          "description": "Organize your digital files automatically by date, client, or type. Implement secure, automated backups to your disk or the cloud, ensuring data integrity and accessibility."
+          "title": "Self-Organizing Folders",
+          "description": "Documents are automatically sorted by client, date, or type. Plus, they're backed up to the cloud or a drive without anyone lifting a finger. Ideal for companies with a long history... and accumulated chaos."
         },
         "service3": {
-          "title": "Digital Internal Requests",
-          "description": "Streamline internal requisitions for supplies, support, or transfers with a centralized digital form. Eliminate paperwork and track every request with detailed reports."
+          "title": "Requests Without Chaos",
+          "description": "A single, clean, and traceable channel for requesting supplies, support, or transfers. Goodbye to 'I sent you a WhatsApp.' Hello to real reports and traceability."
         }
       },
       "cat2": {
         "title": "Sales & Customer Service",
         "service1": {
-          "title": "WhatsApp & Social Media Data Capture",
-          "description": "Automatically extract key customer data—like names, orders, and addresses—from WhatsApp and social media chats. Organize information instantly and send automated confirmations."
+          "title": "Ninja Capture from WhatsApp & Social Media",
+          "description": "What your customers type (name, order, address) becomes a clear entry on your digital dashboard. And they get an automated reply. While you keep selling."
         },
         "service2": {
-          "title": "Digital Sales & Service Logging",
-          "description": "Record every transaction or service from any device. Centralize your data in real-time for instant, actionable insights without expensive or complex systems."
+          "title": "POS Without Expensive Systems",
+          "description": "Your phone is now your cash register, your report, your history. Sales are logged instantly. Without paying for expensive software. No complex inventories. Just real control."
         },
         "service3": {
-          "title": "Automated Customer Follow-Up",
-          "description": "Boost retention with automated alerts for inactive customers. Send personalized reminders, promotions, and messages to encourage repeat business."
+          "title": "Sleeping Customer Radar",
+          "description": "Customers who haven't returned in X days trigger an automatic alert. With options for direct messages, promotions, or reminders. Recapture sales without picking up the phone."
         }
       },
       "cat3": {
         "title": "Reporting, Control & Metrics",
         "service1": {
-          "title": "Automated KPI Reporting",
-          "description": "Get daily or weekly reports on key metrics like sales, top products, and profits. Delivered in ready-to-use Excel or PDF formats without manual formula creation."
+          "title": "Self-Generating Metrics",
+          "description": "How much did you sell? What moved the most? How much did you earn? Every piece of data, every day, delivered straight to your email or WhatsApp in Excel or PDF. No formulas. No asking anyone."
         },
         "service2": {
-          "title": "Automated Expense & Performance Analysis",
-          "description": "Upload your raw data, and our system generates clear financial balances, performance percentages, and insightful summaries, ready for partners and stakeholders."
+          "title": "Pre-Built Accounting",
+          "description": "Upload expenses or sales and get ready-made balance sheets, alerts, and graphs. For partners, accountants, or investors, in a single click. Without any technical effort."
         },
         "service3": {
-          "title": "Weekly Activity & Milestone Consolidation",
-          "description": "Empower teams to log their achievements, and our system will create a dynamic, visual report. Perfect for tracking progress and keeping everyone aligned, updated weekly."
+          "title": "Intelligent Weekly Summary",
+          "description": "Each team logs what they've done → the system builds a visual report. Perfect for presentations, clients, or internal meetings. And yes... it does it by itself."
         }
       },
       "cat4": {
         "title": "Technical Support & Internal IT",
         "service1": {
-          "title": "Automated Endpoint Scanning",
-          "description": "Proactively monitor Windows/Linux devices for suspicious tasks, unauthorized software, or large files. Keep your tech team informed with automated alerts and reports."
+          "title": "Silent Guardians on Your Computers",
+          "description": "We check (without installing anything) for apps that shouldn't be there, strange files, or suspicious tasks. You receive automatic alerts. Security without human intervention."
         },
         "service2": {
-          "title": "Scheduled File & Folder Cleanup",
-          "description": "Automate the secure deletion of old or duplicate files based on rules you define. Prevent storage saturation and ensure compliance."
+          "title": "Clean Drive, Agile Company",
+          "description": "Automatic deletion of digital junk: old, duplicate, or unnecessary files. Configured by date, type, or size. More space. Fewer risks. Hands-free."
         },
         "service3": {
-          "title": "Custom Script & Process Automation",
-          "description": "Program daily tasks like exporting, copying, or renaming to run automatically. Save time, eliminate human error, and boost overall efficiency."
+          "title": "Scripts with Brains",
+          "description": "Tasks you do every day (renaming, exporting, moving folders) are now done automatically with pre-configured logic. And the best part: no one notices it happened... only that the work is done."
         }
       }
     }
