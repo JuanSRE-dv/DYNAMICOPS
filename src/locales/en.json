@@ -1,3 +1,4 @@
+
 {
   "header": {
     "services": "Services",
@@ -16,58 +17,66 @@
   },
   "services": {
     "title": "Our Automation Solutions",
-    "subtitle": "We offer a comprehensive suite of automation services to meet your unique needs.",
+    "subtitle": "We offer a comprehensive suite of automation services designed to streamline your operations and drive growth.",
     "categories": {
       "cat1": {
-        "title": "Operational and Administrative Management",
+        "title": "Operations & Administrative Management",
         "service1": {
-          "title": "Automatic Time Tracking",
-          "description": "Each employee clocks in from a link or QR. Generates reports by location, date, and team without a single spreadsheet."
+          "title": "Automated Time & Attendance",
+          "description": "Optimize workforce management with a simple QR or link-based clock-in system. Generate error-free reports by location, date, or team, ready for payroll and HR."
         },
         "service2": {
-          "title": "Automatic File Sorting",
-          "description": "Your documents are organized by date, client, or type. Automatic backups to disk or cloud without lifting a finger."
+          "title": "Intelligent File & Backup Automation",
+          "description": "Organize your digital files automatically by date, client, or type. Implement secure, automated backups to your disk or the cloud, ensuring data integrity and accessibility."
         },
         "service3": {
           "title": "Digital Internal Requests",
-          "description": "A digital form for supplies, transfers, support, or whatever you need. Replaces email, WhatsApp, or paper."
+          "description": "Streamline internal requisitions for supplies, support, or transfers with a centralized digital form. Eliminate paperwork and track every request with detailed reports."
         }
       },
       "cat2": {
-        "title": "Sales and Customer Service",
+        "title": "Sales & Customer Service",
         "service1": {
-          "title": "Data Capture from WhatsApp/Social",
-          "description": "We automatically extract what your customers write (name, order, address) and save it in an organized table."
+          "title": "WhatsApp & Social Media Data Capture",
+          "description": "Automatically extract key customer data—like names, orders, and addresses—from WhatsApp and social media chats. Organize information instantly and send automated confirmations."
         },
         "service2": {
-          "title": "Digital Sales/Service Log",
-          "description": "From a phone or tablet, record every sale or service provided. Centralized data instantly for daily or weekly reports."
+          "title": "Digital Sales & Service Logging",
+          "description": "Record every transaction or service from any device. Centralize your data in real-time for instant, actionable insights without expensive or complex systems."
         },
         "service3": {
-          "title": "Frequent Customer Follow-up",
-          "description": "Receive alerts for customers who haven't returned. Send reminders, promotions, or personalized messages automatically."
+          "title": "Automated Customer Follow-Up",
+          "description": "Boost retention with automated alerts for inactive customers. Send personalized reminders, promotions, and messages to encourage repeat business."
         }
       },
       "cat3": {
-        "title": "Reports, Control, and Metrics",
+        "title": "Reporting, Control & Metrics",
         "service1": {
-          "title": "Automatic KPI Calculation",
-          "description": "Total sales, best-selling products, profits, visits. Ready daily or weekly without formulas or emails, delivered in Excel or PDF."
+          "title": "Automated KPI Reporting",
+          "description": "Get daily or weekly reports on key metrics like sales, top products, and profits. Delivered in ready-to-use Excel or PDF formats without manual formula creation."
         },
         "service2": {
-          "title": "Automatic Expense/Performance Report",
-          "description": "You upload your data (expenses, income, operations) and the system does everything. Clear balances, percentages, and summaries."
+          "title": "Automated Expense & Performance Analysis",
+          "description": "Upload your raw data, and our system generates clear financial balances, performance percentages, and insightful summaries, ready for partners and stakeholders."
         },
         "service3": {
-          "title": "Weekly Activity Consolidation",
-          "description": "Each area records its achievements → the system creates a visual report. It updates itself, every week."
+          "title": "Weekly Activity & Milestone Consolidation",
+          "description": "Empower teams to log their achievements, and our system will create a dynamic, visual report. Perfect for tracking progress and keeping everyone aligned, updated weekly."
         }
       },
       "cat4": {
-        "title": "Technical Support and Internal Tech",
+        "title": "Technical Support & Internal IT",
         "service1": {
-          "title": "Automated Equipment Scanning",
-          "description": "Detect suspicious tasks, unauthorized software, or large files on Windows/Linux, and report to the tech team."
+          "title": "Automated Endpoint Scanning",
+          "description": "Proactively monitor Windows/Linux devices for suspicious tasks, unauthorized software, or large files. Keep your tech team informed with automated alerts and reports."
+        },
+        "service2": {
+          "title": "Scheduled File & Folder Cleanup",
+          "description": "Automate the secure deletion of old or duplicate files based on rules you define. Prevent storage saturation and ensure compliance."
+        },
+        "service3": {
+          "title": "Custom Script & Process Automation",
+          "description": "Program daily tasks like exporting, copying, or renaming to run automatically. Save time, eliminate human error, and boost overall efficiency."
         }
       }
     }
@@ -198,5 +207,9 @@
     "placeholder": "e.g., How can I automate file sorting?",
     "send": "Send",
     "error": "Sorry, I encountered an error. Please try again."
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "subtitle": "Explore our comprehensive automation solutions tailored to your business needs."
   }
 }
