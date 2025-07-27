@@ -1,0 +1,202 @@
+{
+  "header": {
+    "services": "Servicios",
+    "about": "Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "getQuote": "Cotizar",
+    "english": "English",
+    "spanish": "Español"
+  },
+  "hero": {
+    "title": "Automatiza tus procesos, impulsa tu negocio",
+    "subtitle": "Transformamos tus tareas manuales y repetitivas en sistemas automáticos ágiles y eficientes, liberando a tu equipo para que se enfoque en lo que realmente importa: crecer.",
+    "exploreServices": "Explorar Servicios",
+    "contactUs": "Contáctanos"
+  },
+  "services": {
+    "title": "Nuestras Soluciones de Automatización",
+    "subtitle": "Ofrecemos un conjunto completo de servicios de automatización para satisfacer sus necesidades únicas.",
+    "categories": {
+      "cat1": {
+        "title": "Gestión Operativa y Administrativa",
+        "service1": {
+          "title": "Registro automático de horarios",
+          "description": "Cada empleado marca su ingreso desde un link o QR. Genera reportes por sede, fecha y equipo sin escribir una sola celda."
+        },
+        "service2": {
+          "title": "Clasificación automática de archivos",
+          "description": "Tus documentos se ordenan solos según fecha, cliente o tipo. Copias automáticas en disco o nube sin mover un dedo."
+        },
+        "service3": {
+          "title": "Registro digital de solicitudes internas",
+          "description": "Formulario digital para insumos, traslados o soporte. Reemplaza el correo, WhatsApp o papel."
+        }
+      },
+      "cat2": {
+        "title": "Ventas y Atención al Cliente",
+        "service1": {
+          "title": "Captura de datos desde WhatsApp/Redes",
+          "description": "Extraemos automáticamente lo que escriben tus clientes (nombre, pedido, dirección) y lo guardamos en una tabla organizada."
+        },
+        "service2": {
+          "title": "Registro digital de ventas/servicios",
+          "description": "Desde el celular o tablet, se registra cada venta o servicio. Datos centralizados al instante para informes diarios o semanales."
+        },
+        "service3": {
+          "title": "Seguimiento automático a clientes",
+          "description": "Recibe alertas de clientes que no han vuelto. Envía recordatorios, promociones o mensajes personalizados automáticamente."
+        }
+      },
+      "cat3": {
+        "title": "Informes, Control y Métricas",
+        "service1": {
+          "title": "Cálculo automático de indicadores",
+          "description": "Ventas totales, productos más vendidos, ganancias. Listos cada día o semana sin fórmulas ni correos, entregados en Excel o PDF."
+        },
+        "service2": {
+          "title": "Informe automático de gastos/rendimiento",
+          "description": "Cargas tus datos (gastos, ingresos) y el sistema hace todo. Balances claros, porcentajes y resúmenes."
+        },
+        "service3": {
+          "title": "Consolidación semanal de actividades",
+          "description": "Cada área registra lo hecho → el sistema arma un informe visual. Se actualiza solo, cada semana."
+        }
+      },
+      "cat4": {
+        "title": "Soporte Técnico y Tecnología Interna",
+        "service1": {
+          "title": "Escaneo automático de equipos",
+          "description": "Detecta tareas sospechosas, software no permitido o archivos grandes en Windows/Linux e informa al equipo técnico."
+        }
+      }
+    }
+  },
+  "aboutPreview": {
+    "title": "Sobre DYNAMICOPS CONSULTING",
+    "description1": "Somos un equipo de expertos en automatización de procesos, dedicados a ayudar a empresas a alcanzar la excelencia operativa. Nuestra misión es eliminar los errores manuales y optimizar sus flujos de trabajo internos.",
+    "description2": "Con años de experiencia en software a medida y gestión de datos, empoderamos a sus equipos para que trabajen de forma más eficiente e inteligente.",
+    "button": "Conoce al equipo"
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Historias reales de negocios que hemos ayudado a transformar.",
+    "testimonial1": {
+      "quote": "DYNAMICOPS CONSULTING automatizó nuestro proceso de reportes. Ahorramos más de 10 horas a la semana y eliminamos los errores manuales.",
+      "title": "Gerente General, Empresa de Servicios"
+    },
+    "testimonial2": {
+      "quote": "La captura de datos desde WhatsApp fue un antes y un después para nuestras ventas. Ahora respondemos más rápido y estamos más organizados.",
+      "title": "Dueño, Tienda Minorista"
+    },
+    "testimonial3": {
+      "quote": "El sistema de seguimiento automático ha incrementado la retención de nuestros clientes en un 20%. Es simple pero increíblemente poderoso.",
+      "title": "Administradora, Clínica de Salud"
+    }
+  },
+  "blogPreview": {
+    "title": "De Nuestro Blog",
+    "subtitle": "Ideas, tutoriales y buenas prácticas para optimizar tu negocio.",
+    "button": "Ver todas las publicaciones"
+  },
+  "contactSection": {
+    "title": "Automaticemos Juntos",
+    "subtitle": "¿Tienes un proceso en mente o simplemente quieres saber más? Nos encantaría saber de ti."
+  },
+  "footer": {
+    "tagline": "Automatizando tareas para impulsar la eficiencia y el crecimiento.",
+    "copyright": "DYNAMICOPS CONSULTING. Todos los derechos reservados."
+  },
+  "about": {
+    "title": "Sobre DYNAMICOPS CONSULTING",
+    "subtitle": "Somos más que consultores. Somos sus socios estratégicos para construir un futuro más ágil, productivo y automatizado para su empresa.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Nuestra misión es empoderar a empresas de todos los tamaños para que alcancen su máximo potencial mediante la automatización de sus procesos clave. Buscamos eliminar cuellos de botella operativos, reducir errores manuales y fomentar una cultura de eficiencia, permitiendo a nuestros clientes innovar y crecer."
+    },
+    "values": {
+      "title": "Nuestros Valores Fundamentales",
+      "value1": {
+        "name": "Eficiencia",
+        "description": "Buscamos la solución más simple y efectiva para cada problema."
+      },
+      "value2": {
+        "name": "Pragmatismo",
+        "description": "Construimos soluciones prácticas y del mundo real que entregan resultados tangibles."
+      },
+      "value3": {
+        "name": "Asociación",
+        "description": "Construimos confianza trabajando mano a mano con nuestros clientes."
+      },
+      "value4": {
+        "name": "Excelencia",
+        "description": "Estamos comprometidos a ofrecer la más alta calidad de servicio y resultados."
+      }
+    },
+    "team": {
+      "title": "Conoce a Nuestro Equipo",
+      "subtitle": "Los expertos dedicados a tu éxito.",
+      "member1": { "role": "Fundador y Arquitecto Líder de Automatización" },
+      "member2": { "role": "Consultor de Procesos" },
+      "member3": { "role": "Especialista en Soluciones para Clientes" }
+    }
+  },
+  "blog": {
+    "title": "Blog de DYNAMICOPS CONSULTING",
+    "subtitle": "Tu fuente de las últimas ideas, tendencias y tutoriales sobre automatización de negocios.",
+    "posts": {
+      "post1": {
+        "title": "5 Tareas Repetitivas que Puedes Automatizar Hoy Mismo",
+        "excerpt": "Descubre las ganancias fáciles de la automatización de oficina y empieza a ahorrar tiempo inmediatamente."
+      },
+      "post2": {
+        "title": "Cómo Usar WhatsApp como un Potente Canal de Ventas",
+        "excerpt": "Organiza las consultas de tus clientes y automatiza respuestas para no perder nunca una venta."
+      },
+      "post3": {
+        "title": "Los Datos de tu Negocio son Oro: Empieza a Tratarlos Como Tal",
+        "excerpt": "Aprende a centralizar y analizar tus indicadores clave sin fórmulas complejas."
+      },
+      "post4": {
+        "title": "¿Es el Software a Medida la Decisión Correcta para mi Negocio?",
+        "excerpt": "Entiende cuándo optar por una solución a medida en lugar de un software comercial."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Estamos aquí para ayudar. Contáctanos con cualquier pregunta o para iniciar tu próximo proyecto de automatización.",
+    "form": {
+      "title": "Ponte en Contacto",
+      "name": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "message": "Mensaje",
+      "messagePlaceholder": "Cuéntanos sobre tu proceso o haz una pregunta",
+      "submit": "Enviar Mensaje"
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "description": "No dudes en contactarnos a través de cualquiera de los siguientes canales. Esperamos saber de ti."
+    },
+    "toast": {
+      "success": {
+        "title": "¡Mensaje Enviado!",
+        "description": "Gracias por contactarnos. Te responderemos pronto."
+      },
+      "error": {
+        "title": "¡Oh, no! Algo salió mal.",
+        "description": "Hubo un problema con tu solicitud. Por favor, inténtalo de nuevo."
+      }
+    }
+  },
+  "ai": {
+    "open": "Abrir Asistente de IA",
+    "title": "Pregúntale a Juan",
+    "description": "Tu asistente personal de automatización. ¡Pregúntame lo que sea!",
+    "noMessages": "Aún no hay mensajes. ¡Inicia la conversación!",
+    "recommendation": "Servicio Recomendado",
+    "placeholder": "Ej: ¿Cómo puedo automatizar el archivo de documentos?",
+    "send": "Enviar",
+    "error": "Lo siento, he encontrado un error. Por favor, inténtalo de nuevo."
+  }
+}
