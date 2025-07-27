@@ -1,3 +1,4 @@
+
 {
   "header": {
     "services": "Servicios",
@@ -16,58 +17,66 @@
   },
   "services": {
     "title": "Nuestras Soluciones de Automatización",
-    "subtitle": "Ofrecemos un conjunto completo de servicios de automatización para satisfacer sus necesidades únicas.",
+    "subtitle": "Ofrecemos un conjunto completo de servicios de automatización diseñados para optimizar sus operaciones e impulsar el crecimiento.",
     "categories": {
       "cat1": {
         "title": "Gestión Operativa y Administrativa",
         "service1": {
-          "title": "Registro automático de horarios",
-          "description": "Cada empleado marca su ingreso desde un link o QR. Genera reportes por sede, fecha y equipo sin escribir una sola celda."
+          "title": "Control Horario Automatizado",
+          "description": "Optimice la gestión de la fuerza laboral con un sistema de fichaje simple basado en QR o enlace. Genere informes sin errores por ubicación, fecha o equipo, listos para nómina y RR.HH."
         },
         "service2": {
-          "title": "Clasificación automática de archivos",
-          "description": "Tus documentos se ordenan solos según fecha, cliente o tipo. Copias automáticas en disco o nube sin mover un dedo."
+          "title": "Clasificación y Respaldo Inteligente de Archivos",
+          "description": "Organice sus archivos digitales automáticamente por fecha, cliente o tipo. Implemente copias de seguridad seguras y automatizadas en su disco o en la nube, garantizando la integridad y accesibilidad de los datos."
         },
         "service3": {
-          "title": "Registro digital de solicitudes internas",
-          "description": "Formulario digital para insumos, traslados o soporte. Reemplaza el correo, WhatsApp o papel."
+          "title": "Solicitudes Internas Digitalizadas",
+          "description": "Agilice las solicitudes internas de suministros, soporte o traslados con un formulario digital centralizado. Elimine el papeleo y rastree cada solicitud con informes detallados."
         }
       },
       "cat2": {
         "title": "Ventas y Atención al Cliente",
         "service1": {
-          "title": "Captura de datos desde WhatsApp/Redes",
-          "description": "Extraemos automáticamente lo que escriben tus clientes (nombre, pedido, dirección) y lo guardamos en una tabla organizada."
+          "title": "Captura de Datos de WhatsApp y Redes Sociales",
+          "description": "Extraiga automáticamente datos clave de clientes (nombres, pedidos, direcciones) de los chats de WhatsApp y redes sociales. Organice la información al instante y envíe confirmaciones automáticas."
         },
         "service2": {
-          "title": "Registro digital de ventas/servicios",
-          "description": "Desde el celular o tablet, se registra cada venta o servicio. Datos centralizados al instante para informes diarios o semanales."
+          "title": "Registro Digital de Ventas y Servicios",
+          "description": "Registre cada transacción o servicio desde cualquier dispositivo. Centralice sus datos en tiempo real para obtener información instantánea y procesable sin sistemas costosos o complejos."
         },
         "service3": {
-          "title": "Seguimiento automático a clientes",
-          "description": "Recibe alertas de clientes que no han vuelto. Envía recordatorios, promociones o mensajes personalizados automáticamente."
+          "title": "Seguimiento Automatizado de Clientes",
+          "description": "Aumente la retención con alertas automáticas para clientes inactivos. Envíe recordatorios, promociones y mensajes personalizados para fomentar la repetición de negocios."
         }
       },
       "cat3": {
         "title": "Informes, Control y Métricas",
         "service1": {
-          "title": "Cálculo automático de indicadores",
-          "description": "Ventas totales, productos más vendidos, ganancias. Listos cada día o semana sin fórmulas ni correos, entregados en Excel o PDF."
+          "title": "Informes de KPI Automatizados",
+          "description": "Obtenga informes diarios o semanales sobre métricas clave como ventas, productos principales y ganancias. Entregados en formatos de Excel o PDF listos para usar sin creación manual de fórmulas."
         },
         "service2": {
-          "title": "Informe automático de gastos/rendimiento",
-          "description": "Cargas tus datos (gastos, ingresos) y el sistema hace todo. Balances claros, porcentajes y resúmenes."
+          "title": "Análisis Automatizado de Gastos y Rendimiento",
+          "description": "Cargue sus datos brutos y nuestro sistema genera balances financieros claros, porcentajes de rendimiento y resúmenes perspicaces, listos para socios e interesados."
         },
         "service3": {
-          "title": "Consolidación semanal de actividades",
-          "description": "Cada área registra lo hecho → el sistema arma un informe visual. Se actualiza solo, cada semana."
+          "title": "Consolidación Semanal de Actividades e Hitos",
+          "description": "Capacite a los equipos para que registren sus logros y nuestro sistema creará un informe visual y dinámico. Perfecto para seguir el progreso y mantener a todos alineados, actualizado semanalmente."
         }
       },
       "cat4": {
-        "title": "Soporte Técnico y Tecnología Interna",
+        "title": "Soporte Técnico y TI Interna",
         "service1": {
-          "title": "Escaneo automático de equipos",
-          "description": "Detecta tareas sospechosas, software no permitido o archivos grandes en Windows/Linux e informa al equipo técnico."
+          "title": "Escaneo Automatizado de Endpoints",
+          "description": "Supervise proactivamente los dispositivos Windows/Linux en busca de tareas sospechosas, software no autorizado o archivos grandes. Mantenga a su equipo técnico informado con alertas e informes automáticos."
+        },
+        "service2": {
+          "title": "Limpieza Programada de Archivos y Carpetas",
+          "description": "Automatice la eliminación segura de archivos antiguos o duplicados según las reglas que defina. Evite la saturación del almacenamiento y garantice el cumplimiento."
+        },
+        "service3": {
+          "title": "Automatización de Scripts y Procesos Personalizados",
+          "description": "Programe tareas diarias como exportar, copiar o cambiar el nombre para que se ejecuten automáticamente. Ahorre tiempo, elimine errores humanos y aumente la eficiencia general."
         }
       }
     }
@@ -198,5 +207,11 @@
     "placeholder": "Ej: ¿Cómo puedo automatizar el archivo de documentos?",
     "send": "Enviar",
     "error": "Lo siento, he encontrado un error. Por favor, inténtalo de nuevo."
+  },
+   "servicesPage": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Explore nuestras soluciones integrales de automatización adaptadas a las necesidades de su negocio."
   }
 }
+
+    
