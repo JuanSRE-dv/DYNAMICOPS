@@ -1,6 +1,7 @@
 
 "use client";
 
+import { useState } from "react";
 import {
   Card,
   CardContent,
@@ -8,6 +9,14 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
 import {
   Clock,
   Archive,
@@ -108,10 +117,19 @@ const servicesByCategory = [
   },
 ];
 
+type Service = {
+  icon: JSX.Element;
+  title: string;
+  description: string;
+};
+
+
 export default function ServicesPage() {
   const { t } = useI18n();
+  const [selectedService, setSelectedService] = useState<Service | null>(null);
+
   return (
-    <>
+    <Dialog>
       <header className="py-20 md:py-32 bg-secondary/50">
         <div className="container mx-auto px-6 text-center">
           <h1 className="font-headline text-4xl md:text-6xl font-bold">
@@ -131,31 +149,46 @@ export default function ServicesPage() {
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {category.services.map((service, index) => (
-                  <Card
-                    key={index}
-                    className="flex flex-col bg-card border-border/60 hover:border-primary/50 hover:bg-secondary/50 transition-all duration-300 transform hover:-translate-y-2"
-                  >
-                    <CardHeader className="flex items-start gap-4 p-6">
-                      <div className="p-3 bg-secondary rounded-full">
-                        {service.icon}
-                      </div>
-                      <CardTitle className="font-headline text-xl mt-2">
-                        {t(service.title)}
-                      </CardTitle>
-                    </CardHeader>
-                    <CardContent className="p-6 pt-0">
-                      <CardDescription>
-                        {t(service.description)}
-                      </CardDescription>
-                    </CardContent>
-                  </Card>
+                  <DialogTrigger key={index} asChild onClick={() => setSelectedService(service)}>
+                    <Card
+                      className="flex flex-col bg-card border-border/60 hover:border-primary/50 hover:bg-secondary/50 transition-all duration-300 transform hover:-translate-y-2 cursor-pointer"
+                    >
+                      <CardHeader className="flex items-start gap-4 p-6">
+                        <div className="p-3 bg-secondary rounded-full">
+                          {service.icon}
+                        </div>
+                        <CardTitle className="font-headline text-xl mt-2">
+                          {t(service.title)}
+                        </CardTitle>
+                      </CardHeader>
+                      <CardContent className="p-6 pt-0">
+                        <CardDescription>
+                          {(t(service.description) as string).split('\n')[0]}
+                        </CardDescription>
+                      </CardContent>
+                    </Card>
+                  </DialogTrigger>
                 ))}
               </div>
             </div>
           ))}
         </div>
       </main>
-    </>
+        {selectedService && (
+            <DialogContent>
+                <DialogHeader>
+                    <DialogTitle className="font-headline text-2xl mb-4 flex items-center gap-4">
+                        <div className="p-3 bg-secondary rounded-full">
+                            {selectedService.icon}
+                        </div>
+                        {t(selectedService.title)}
+                    </DialogTitle>
+                    <DialogDescription className="text-base text-foreground/80 whitespace-pre-wrap">
+                         {t(selectedService.description)}
+                    </DialogDescription>
+                </DialogHeader>
+            </DialogContent>
+        )}
+    </Dialog>
   );
 }
-
