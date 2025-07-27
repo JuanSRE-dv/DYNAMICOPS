@@ -10,8 +10,8 @@
     "spanish": "Español"
   },
   "hero": {
-    "title": "Automate your processes, boost your business",
-    "subtitle": "We transform your manual and repetitive tasks into agile and efficient automated systems, freeing up your team to focus on what really matters: growing.",
+    "title": "DynamicOps – Automation without the smoke and mirrors",
+    "subtitle": "We transform repetitive tasks into automatic processes. If you're doing it by hand, you're already late: we'll do it for you.",
     "exploreServices": "Explore Services",
     "contactUs": "Contact Us"
   },
@@ -22,61 +22,61 @@
       "cat1": {
         "title": "Operations & Administrative Management",
         "service1": {
-          "title": "Phantom Clock – Frictionless Time-Tracking",
-          "description": "Your team clocks in, scans, and moves on. You get ready-to-use reports by location, person, or day. No spreadsheets. No questions. Just control."
+          "title": "Frictionless Time-Tracking",
+          "description": "Each employee clocks in with a link or QR code.\n\nYou get ready-to-go reports by location, team, and date without a single spreadsheet cell.\n\nReady to send to your accountant or HR."
         },
         "service2": {
-          "title": "Self-Organizing Folders",
-          "description": "Documents are automatically sorted by client, date, or type. Plus, they're backed up to the cloud or a drive without anyone lifting a finger. Ideal for companies with a long history... and accumulated chaos."
+          "title": "Automatic File Sorting & Secure Backup",
+          "description": "Your documents sort themselves by date, client, or type.\n\nAutomatic backups to a drive or the cloud without lifting a finger.\n\nPerfect for shared drives or historical chaos."
         },
         "service3": {
-          "title": "Requests Without Chaos",
-          "description": "A single, clean, and traceable channel for requesting supplies, support, or transfers. Goodbye to 'I sent you a WhatsApp.' Hello to real reports and traceability."
+          "title": "Digital Tracking of Internal Orders or Requests",
+          "description": "A digital form for supplies, transfers, support, or whatever you need.\n\nReports by month, person, or area.\n\nReplaces email, WhatsApp, or paper trails."
         }
       },
       "cat2": {
         "title": "Sales & Customer Service",
         "service1": {
-          "title": "Ninja Capture from WhatsApp & Social Media",
-          "description": "What your customers type (name, order, address) becomes a clear entry on your digital dashboard. And they get an automated reply. While you keep selling."
+          "title": "Data Capture from WhatsApp or Social Media",
+          "description": "We automatically extract what your customers type (name, order, address).\n\nWe save it in an organized, exportable table.\n\nAutomatic replies to confirm or thank them."
         },
         "service2": {
-          "title": "POS Without Expensive Systems",
-          "description": "Your phone is now your cash register, your report, your history. Sales are logged instantly. Without paying for expensive software. No complex inventories. Just real control."
+          "title": "Digital Sales or Service Logging by Location",
+          "description": "Log every sale or service from a phone or tablet.\n\nInstantly centralized data for daily or weekly reports.\n\nNo need for expensive systems or complex inventories."
         },
         "service3": {
-          "title": "Sleeping Customer Radar",
-          "description": "Customers who haven't returned in X days trigger an automatic alert. With options for direct messages, promotions, or reminders. Recapture sales without picking up the phone."
+          "title": "Automatic Follow-Up with Frequent Customers",
+          "description": "Get alerts for customers who haven't returned in X days.\n\nSend reminders, promotions, or personalized messages.\n\nIdeal for salons, workshops, clinics, or stores."
         }
       },
       "cat3": {
         "title": "Reporting, Control & Metrics",
         "service1": {
-          "title": "Self-Generating Metrics",
-          "description": "How much did you sell? What moved the most? How much did you earn? Every piece of data, every day, delivered straight to your email or WhatsApp in Excel or PDF. No formulas. No asking anyone."
+          "title": "Automatic Calculation of Key Indicators",
+          "description": "Total sales, best-selling products, profits, visits.\n\nReady daily or weekly without formulas or emails.\n\nDelivered in Excel or PDF."
         },
         "service2": {
-          "title": "Pre-Built Accounting",
-          "description": "Upload expenses or sales and get ready-made balance sheets, alerts, and graphs. For partners, accountants, or investors, in a single click. Without any technical effort."
+          "title": "Automatic Expense or Performance Reports",
+          "description": "You upload your data (expenses, revenue, operations), and the system does the rest.\n\nClear balance sheets, percentages, alerts, and summaries.\n\nReady to share with partners or accountants."
         },
         "service3": {
-          "title": "Intelligent Weekly Summary",
-          "description": "Each team logs what they've done → the system builds a visual report. Perfect for presentations, clients, or internal meetings. And yes... it does it by itself."
+          "title": "Weekly Consolidation of Activities or Achievements",
+          "description": "Each team logs what they've done -> the system creates a visual report.\n\nUseful for presentations, progress updates, or team management.\n\nUpdates itself, every week."
         }
       },
       "cat4": {
         "title": "Technical Support & Internal IT",
         "service1": {
-          "title": "Silent Guardians on Your Computers",
-          "description": "We check (without installing anything) for apps that shouldn't be there, strange files, or suspicious tasks. You receive automatic alerts. Security without human intervention."
+          "title": "Automatic Scanning of Equipment (Windows/Linux)",
+          "description": "Detects suspicious tasks, unauthorized software, or large/insecure files.\n\nInforms the technical team with alerts or weekly reports.\n\nRequires no agents or permanent installation."
         },
         "service2": {
-          "title": "Clean Drive, Agile Company",
-          "description": "Automatic deletion of digital junk: old, duplicate, or unnecessary files. Configured by date, type, or size. More space. Fewer risks. Hands-free."
+          "title": "Scheduled Cleaning of Files or Folders",
+          "description": "Automates the secure deletion of old or duplicate files.\n\nApplies rules by type, date, or folder.\n\nPrevents storage overload or misuse."
         },
         "service3": {
-          "title": "Scripts with Brains",
-          "description": "Tasks you do every day (renaming, exporting, moving folders) are now done automatically with pre-configured logic. And the best part: no one notices it happened... only that the work is done."
+          "title": "Automation of Manual Processes with Scripts",
+          "description": "Tasks you do every day (exporting, copying, moving, renaming) are scheduled to run on their own.\n\nSaves time, zero errors, more efficiency."
         }
       }
     }
