@@ -10,8 +10,8 @@
     "spanish": "Español"
   },
   "hero": {
-    "title": "DynamicOps – Automatización sin humo, sin excusas",
-    "subtitle": "Transformamos tareas repetitivas en procesos automáticos. Si lo haces a mano, ya es tarde: nosotros lo hacemos por ti.",
+    "title": "DynamicOps – Evoluciona tus Procesos. Automatiza tu Futuro.",
+    "subtitle": "Transformamos el trabajo manual en ventajas competitivas. Si una tarea es repetitiva, no debería ser humana.",
     "exploreServices": "Explorar Servicios",
     "contactUs": "Contáctanos"
   },
@@ -22,61 +22,61 @@
       "cat1": {
         "title": "Gestión Operativa y Administrativa",
         "service1": {
-          "title": "Registro automático de entradas y salidas",
-          "description": "Cada empleado marca su ingreso desde un link o QR\n\nGenera reportes por sede, fecha y equipo sin escribir una sola celda\n\nListo para enviar al contador o a Recursos Humanos"
+          "title": "Reloj Fantasma – Registro sin fricciones",
+          "description": "Convierte el registro de tiempo en un proceso invisible y autónomo. Tu equipo ficha con un simple escaneo, y tú recibes análisis de productividad en tiempo real. Olvídate de las hojas de cálculo y de perseguir a la gente; enfócate en lo que de verdad importa: liderar a tu equipo."
         },
         "service2": {
-          "title": "Clasificación automática de archivos y respaldo seguro",
-          "description": "Tus documentos se ordenan solos según fecha, cliente o tipo\n\nCopias automáticas en disco o nube sin mover un dedo\n\nIdeal para carpetas compartidas o desorden histórico"
+          "title": "Carpetas que se ordenan solas",
+          "description": "Imagina un archivo digital que se construye y organiza a sí mismo. Nuestra solución clasifica, etiqueta y respalda automáticamente cada documento por cliente, fecha o proyecto. Tu caos digital se convierte en un activo estratégico e inteligente que trabaja para ti, incluso cuando no estás mirando."
         },
         "service3": {
-          "title": "Registro digital de pedidos internos o solicitudes",
-          "description": "Formulario digital para insumos, traslados, soporte o lo que necesites\n\nReportes por mes, por persona o por área\n\nReemplaza el correo, WhatsApp o papel"
+          "title": "Solicitudes sin caos",
+          "description": "Centraliza todas las solicitudes internas —desde insumos hasta tickets de soporte— en un canal único, inteligente y completamente trazable. Obtén informes en tiempo real, elimina cuellos de botella y haz que la frase 'te envié un mensaje' sea una reliquia del pasado."
         }
       },
       "cat2": {
         "title": "Ventas y Atención al Cliente",
         "service1": {
-          "title": "Captura de datos desde WhatsApp o redes",
-          "description": "Extraemos automáticamente lo que escriben tus clientes (nombre, pedido, dirección)\n\nLo guardamos en una tabla organizada y exportable\n\nRespuestas automáticas para confirmar o agradecer"
+          "title": "Captura Ninja desde WhatsApp y redes",
+          "description": "Convierte conversaciones no estructuradas de redes sociales y WhatsApp en datos estratégicos. Nuestro sistema extrae nombres de clientes, pedidos y direcciones, los registra en tu tablero digital y activa una confirmación automática. Tú solo te concentras en cerrar la próxima venta."
         },
         "service2": {
-          "title": "Registro digital de ventas o servicios por punto",
-          "description": "Desde el celular o tablet, se registra cada venta o servicio entregado\n\nDatos centralizados al instante para informes diarios o semanales\n\nSin necesidad de sistemas caros ni inventarios complejos"
+          "title": "Punto de venta sin sistema costoso",
+          "description": "Tu teléfono o tablet se convierte en tu caja registradora, tu motor de informes y tu registro histórico. Registra ventas al instante, sigue el rendimiento y genera informes sin atarte a software caro o sistemas de inventario complejos. Es control puro y en tiempo real en tu bolsillo."
         },
         "service3": {
-          "title": "Seguimiento automático a clientes frecuentes",
-          "description": "Recibe alertas de clientes que no han vuelto en X días\n\nEnvía recordatorios, promociones o mensajes personalizados\n\nIdeal para peluquerías, talleres, consultorios o tiendas"
+          "title": "Radar de Clientes Dormidos",
+          "description": "Nuestro sistema es un motor de crecimiento proactivo que detecta automáticamente a los clientes que no han regresado. Luego, te permite volver a interactuar con ellos con una promoción personalizada o un recordatorio oportuno, convirtiendo una posible pérdida en una nueva oportunidad de venta sin que levantes un dedo."
         }
       },
       "cat3": {
         "title": "Informes, Control y Métricas",
         "service1": {
-          "title": "Cálculo automático de indicadores clave",
-          "description": "Ventas totales, productos más vendidos, ganancias, visitas\n\nListos cada día o semana sin fórmulas ni correos\n\nEntregados en Excel o PDF"
+          "title": "Métricas que se autogeneran",
+          "description": "¿Y si tus KPIs no solo se rastrearan, sino que se te entregaran completamente analizados? Obtén informes diarios o semanales sobre ventas, productos más vendidos y márgenes de beneficio directamente en tu correo o WhatsApp, en formato Excel o PDF. Sin fórmulas, sin esperas, solo información útil y lista para la acción."
         },
         "service2": {
-          "title": "Informe automático de gastos o rendimiento",
-          "description": "Cargas tus datos (gastos, ingresos, operaciones) y el sistema hace todo\n\nBalances claros, porcentajes, alertas y resúmenes\n\nPreparado para compartir con socios o contadores"
+          "title": "Contabilidad pre-armada",
+          "description": "Sube tus datos financieros brutos —gastos, ingresos, costos operativos— y nuestro sistema los transforma en balances claros, alertas de rendimiento y gráficos visuales. Tus números, listos para ser compartidos con socios, contadores o inversores en un solo clic."
         },
         "service3": {
-          "title": "Consolidación semanal de actividades o logros",
-          "description": "Cada área registra lo hecho → el sistema arma un informe visual\n\nÚtil para presentaciones, avances o control de equipos\n\nSe actualiza solo, cada semana"
+          "title": "Resumen Semanal Inteligente",
+          "description": "Cada miembro del equipo registra sus logros y nuestro sistema consolida automáticamente los datos en un informe visual de alto impacto. Perfecto para presentaciones a la junta directiva, actualizaciones a clientes o reuniones internas. Se construye solo, para que puedas centrarte en la narrativa."
         }
       },
       "cat4": {
         "title": "Soporte Técnico y Tecnología Interna",
         "service1": {
-          "title": "Escaneo automático de equipos (Windows/Linux)",
-          "description": "Detecta tareas sospechosas, software no permitido, archivos grandes o inseguros\n\nInforma al equipo técnico con alertas o reportes semanales\n\nNo requiere agentes ni instalación permanente"
+          "title": "Guardianes silenciosos en tus equipos",
+          "description": "Implementamos una postura de seguridad proactiva escaneando tus sistemas (sin instalar nada) en busca de aplicaciones no autorizadas, archivos sospechosos o violaciones de políticas. Recibes alertas automáticas, permitiendo que tu equipo de TI sea predictivo, no solo reactivo."
         },
         "service2": {
-          "title": "Limpieza programada de archivos o carpetas",
-          "description": "Automatiza el borrado seguro de archivos viejos o duplicados\n\nAplica reglas por tipo, fecha o carpeta\n\nEvita saturación o mal uso del almacenamiento"
+          "title": "Disco Limpio, Empresa Ágil",
+          "description": "Automatiza la higiene digital eliminando sistemáticamente archivos obsoletos, duplicados o datos innecesarios. Tú estableces las reglas —por fecha, tipo o tamaño— y nuestro sistema recupera almacenamiento y reduce riesgos. Tu infraestructura, en piloto automático."
         },
         "service3": {
-          "title": "Automatización de procesos manuales con scripts",
-          "description": "Tareas que haces todos los días (exportar, copiar, mover, renombrar) se programan para ejecutarse solas\n\nAhorro de tiempo, cero errores, más eficiencia"
+          "title": "Scripts con cerebro",
+          "description": "Las tareas manuales y repetitivas de TI que haces todos los días —renombrar archivos, exportar datos, mover carpetas— ahora son procesos autoejecutables impulsados por lógica preconfigurada. ¿La mejor parte? Nadie se da cuenta de que ocurrió... solo que el trabajo está hecho, impecablemente."
         }
       }
     }
