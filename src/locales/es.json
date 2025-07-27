@@ -22,61 +22,61 @@
       "cat1": {
         "title": "Gestión Operativa y Administrativa",
         "service1": {
-          "title": "Control Horario Automatizado",
-          "description": "Optimice la gestión de la fuerza laboral con un sistema de fichaje simple basado en QR o enlace. Genere informes sin errores por ubicación, fecha o equipo, listos para nómina y RR.HH."
+          "title": "Reloj Fantasma – Registro sin fricciones",
+          "description": "Tu equipo entra, escanea y sigue. Tú recibes reportes listos por sede, por persona o por día. Sin hojas de Excel. Sin preguntas. Solo control."
         },
         "service2": {
-          "title": "Clasificación y Respaldo Inteligente de Archivos",
-          "description": "Organice sus archivos digitales automáticamente por fecha, cliente o tipo. Implemente copias de seguridad seguras y automatizadas en su disco o en la nube, garantizando la integridad y accesibilidad de los datos."
+          "title": "Carpetas que se ordenan solas",
+          "description": "Documentos que se clasifican automáticamente por cliente, fecha o tipo. Y además, respaldados en la nube o disco sin que nadie lo toque. Ideal para empresas con historia... y caos acumulado."
         },
         "service3": {
-          "title": "Solicitudes Internas Digitalizadas",
-          "description": "Agilice las solicitudes internas de suministros, soporte o traslados con un formulario digital centralizado. Elimine el papeleo y rastree cada solicitud con informes detallados."
+          "title": "Solicitudes sin caos",
+          "description": "Un canal único, limpio y trazable para pedir insumos, soporte o traslados. Adiós al “te mandé un WhatsApp”. Hola a reportes y trazabilidad real."
         }
       },
       "cat2": {
         "title": "Ventas y Atención al Cliente",
         "service1": {
-          "title": "Captura de Datos de WhatsApp y Redes Sociales",
-          "description": "Extraiga automáticamente datos clave de clientes (nombres, pedidos, direcciones) de los chats de WhatsApp y redes sociales. Organice la información al instante y envíe confirmaciones automáticas."
+          "title": "Captura Ninja desde WhatsApp y redes",
+          "description": "Lo que tus clientes escriben (nombre, pedido, dirección) se convierte en una entrada clara en tu tablero digital. Y les llega una respuesta automática. Mientras tú sigues vendiendo."
         },
         "service2": {
-          "title": "Registro Digital de Ventas y Servicios",
-          "description": "Registre cada transacción o servicio desde cualquier dispositivo. Centralice sus datos en tiempo real para obtener información instantánea y procesable sin sistemas costosos o complejos."
+          "title": "Punto de venta sin sistema costoso",
+          "description": "Tu celular ahora es tu caja, tu reporte, tu histórico. Ventas registradas al instante. Sin pagar software caro. Sin inventarios complejos. Solo control real."
         },
         "service3": {
-          "title": "Seguimiento Automatizado de Clientes",
-          "description": "Aumente la retención con alertas automáticas para clientes inactivos. Envíe recordatorios, promociones y mensajes personalizados para fomentar la repetición de negocios."
+          "title": "Radar de Clientes Dormidos",
+          "description": "Clientes que no regresaron en X días → alerta automática. Con opción de mensaje, promoción o recordatorio directo. Recaptura ventas sin levantar el teléfono."
         }
       },
       "cat3": {
         "title": "Informes, Control y Métricas",
         "service1": {
-          "title": "Informes de KPI Automatizados",
-          "description": "Obtenga informes diarios o semanales sobre métricas clave como ventas, productos principales y ganancias. Entregados en formatos de Excel o PDF listos para usar sin creación manual de fórmulas."
+          "title": "Métricas que se autogeneran",
+          "description": "¿Cuánto vendiste? ¿Qué se movió más? ¿Cuánto ganaste? Cada dato, cada día, directo en tu correo o WhatsApp en Excel o PDF. Sin fórmulas. Sin pedirle a nadie."
         },
         "service2": {
-          "title": "Análisis Automatizado de Gastos y Rendimiento",
-          "description": "Cargue sus datos brutos y nuestro sistema genera balances financieros claros, porcentajes de rendimiento y resúmenes perspicaces, listos para socios e interesados."
+          "title": "Contabilidad pre-armada",
+          "description": "Carga gastos o ventas y obtén balances listos, alertas y gráficas. Para socios, contadores o inversionistas, en un clic. Sin hacer nada técnico."
         },
         "service3": {
-          "title": "Consolidación Semanal de Actividades e Hitos",
-          "description": "Capacite a los equipos para que registren sus logros y nuestro sistema creará un informe visual y dinámico. Perfecto para seguir el progreso y mantener a todos alineados, actualizado semanalmente."
+          "title": "Resumen Semanal Inteligente",
+          "description": "Cada equipo registra lo que hizo → el sistema arma un informe visual. Perfecto para presentaciones, clientes o juntas internas. Y sí… lo hace solo."
         }
       },
       "cat4": {
-        "title": "Soporte Técnico y TI Interna",
+        "title": "Soporte Técnico y Tecnología Interna",
         "service1": {
-          "title": "Escaneo Automatizado de Endpoints",
-          "description": "Supervise proactivamente los dispositivos Windows/Linux en busca de tareas sospechosas, software no autorizado o archivos grandes. Mantenga a su equipo técnico informado con alertas e informes automáticos."
+          "title": "Guardianes silenciosos en tus equipos",
+          "description": "Revisamos (sin instalar nada) qué apps no deberían estar, archivos raros o tareas sospechosas. Recibes alertas automáticas. Seguridad sin intervención humana."
         },
         "service2": {
-          "title": "Limpieza Programada de Archivos y Carpetas",
-          "description": "Automatice la eliminación segura de archivos antiguos o duplicados según las reglas que defina. Evite la saturación del almacenamiento y garantice el cumplimiento."
+          "title": "Disco Limpio, Empresa Ágil",
+          "description": "Borrado automático de basura digital: archivos viejos, duplicados o innecesarios. Configurado por fecha, tipo o tamaño. Más espacio. Menos riesgos. Sin manos."
         },
         "service3": {
-          "title": "Automatización de Scripts y Procesos Personalizados",
-          "description": "Programe tareas diarias como exportar, copiar o cambiar el nombre para que se ejecuten automáticamente. Ahorre tiempo, elimine errores humanos y aumente la eficiencia general."
+          "title": "Scripts con cerebro",
+          "description": "Tareas que haces cada día (renombrar, exportar, mover carpetas) ahora se hacen solas, con lógica preconfigurada. Y lo mejor: nadie nota que pasó… solo que el trabajo está hecho."
         }
       }
     }
