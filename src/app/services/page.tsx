@@ -1,3 +1,4 @@
+
 "use client";
 
 import {
@@ -7,14 +8,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-  DialogTrigger,
-} from "@/components/ui/dialog";
 import {
   Clock,
   Archive,
@@ -117,7 +110,6 @@ const servicesByCategory = [
 
 export default function ServicesPage() {
   const { t } = useI18n();
-
   return (
     <>
       <header className="py-20 md:py-32 bg-secondary/50">
@@ -139,40 +131,24 @@ export default function ServicesPage() {
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {category.services.map((service, index) => (
-                  <Dialog key={index}>
-                    <DialogTrigger asChild>
-                      <Card
-                        className="flex flex-col bg-card border-border/60 hover:border-primary/50 hover:bg-secondary/50 transition-all duration-300 transform hover:-translate-y-2 cursor-pointer"
-                      >
-                        <CardHeader className="flex items-start gap-4 p-6">
-                          <div className="p-3 bg-secondary rounded-full">
-                            {service.icon}
-                          </div>
-                          <CardTitle className="font-headline text-xl mt-2">
-                            {t(service.title)}
-                          </CardTitle>
-                        </CardHeader>
-                        <CardContent className="p-6 pt-0">
-                          <CardDescription>
-                            {(t(service.description) as string).split('\n')[0]}
-                          </CardDescription>
-                        </CardContent>
-                      </Card>
-                    </DialogTrigger>
-                    <DialogContent>
-                      <DialogHeader>
-                          <DialogTitle className="font-headline text-2xl mb-4 flex items-center gap-4">
-                              <div className="p-3 bg-secondary rounded-full">
-                                  {service.icon}
-                              </div>
-                              {t(service.title)}
-                          </DialogTitle>
-                          <DialogDescription className="text-base text-foreground/80 whitespace-pre-wrap">
-                               {t(service.description)}
-                          </DialogDescription>
-                      </DialogHeader>
-                    </DialogContent>
-                  </Dialog>
+                  <Card
+                    key={index}
+                    className="flex flex-col bg-card border-border/60 hover:border-primary/50 hover:bg-secondary/50 transition-all duration-300 transform hover:-translate-y-2"
+                  >
+                    <CardHeader className="flex items-start gap-4 p-6">
+                      <div className="p-3 bg-secondary rounded-full">
+                        {service.icon}
+                      </div>
+                      <CardTitle className="font-headline text-xl mt-2">
+                        {t(service.title)}
+                      </CardTitle>
+                    </CardHeader>
+                    <CardContent className="p-6 pt-0">
+                      <CardDescription>
+                        {t(service.description)}
+                      </CardDescription>
+                    </CardContent>
+                  </Card>
                 ))}
               </div>
             </div>
@@ -182,3 +158,5 @@ export default function ServicesPage() {
     </>
   );
 }
+
+    
